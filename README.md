@@ -1,17 +1,41 @@
-# Hi there, I'm Kausar Hasan 👋
+<h1 align="center">Hi, I'm Kausar Hasan 👋</h1>
+<p align="center">🚀 Full-Stack Developer | 💻 UI/UX Designer | 🇧🇩 Based in Bangladesh</p>
 
-🚀 Full-stack JavaScript developer | 🌐 Web enthusiast | 🛠️ Open source contributor
+---
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+### 🧠 About Me
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+- 🔭 I’m currently building **Tomingle** – a React Native dating app.
+- 🌱 Learning more about **JavaScript animations** and UI interactions.
+- 💼 Full-time developer & open-source enthusiast.
+- 🎯 Focused on creating intuitive digital experiences and scalable solutions.
 
-## 📫 How to reach me
-- Twitter: [@kausarhsn1](https://x.com/kausarhsn1)
-- LinkedIn: [Kausar Hasan](https://www.linkedin.com/in/kausarhsn09/)
-- Email: kausarhasan266@gmail.com
+---
+
+### ⚙️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+
+---
+
+### 📱 Featured Projects
+
+- 🔥 [**Tomingle**](https://github.com/your-tomingle-link) – Dating app with anonymous posts & relationship sharing.
+- 🛠️ [**Case In**](https://github.com/your-casein-link) – Property health & maintenance reporting platform.
+- 💼 [**InvestWell Solutions**](https://github.com/your-investwell-link) – Investment website using Elementor + custom design.
+
+---
+
+### 📫 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourproaccount)
+
+---
+
+<p align="center">✨ Thanks for stopping by! ✨</p>
