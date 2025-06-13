@@ -24,7 +24,6 @@
 
 ### 📱 Featured Projects
 
-- 🔥 [**Tomingle**](https://github.com/your-tomingle-link) – Dating app with anonymous posts & relationship sharing.
 - 🛠️ [**Case In**](https://github.com/your-casein-link) – Property health & maintenance reporting platform.
 - 💼 [**InvestWell Solutions**](https://github.com/your-investwell-link) – Investment website using Elementor + custom design.
 
